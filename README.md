@@ -11,13 +11,8 @@ The Main Work Packages are as follows:
     <td>
       Item 1
     </td>
-    
     <td>
       Preson 1
-    </td>
-    
-    
+    </td>   
   </tr>
-
-
 </table>
